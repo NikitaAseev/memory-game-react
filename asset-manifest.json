@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/memory-game-react/static/css/main.b9acd6d9.chunk.css",
+    "main.js": "/memory-game-react/static/js/main.bb53ca8f.chunk.js",
+    "main.js.map": "/memory-game-react/static/js/main.bb53ca8f.chunk.js.map",
+    "runtime-main.js": "/memory-game-react/static/js/runtime-main.9c4f0de0.js",
+    "runtime-main.js.map": "/memory-game-react/static/js/runtime-main.9c4f0de0.js.map",
+    "static/js/2.05b8c206.chunk.js": "/memory-game-react/static/js/2.05b8c206.chunk.js",
+    "static/js/2.05b8c206.chunk.js.map": "/memory-game-react/static/js/2.05b8c206.chunk.js.map",
+    "index.html": "/memory-game-react/index.html",
+    "precache-manifest.281fd0b2736a86b1358d617fafc79761.js": "/memory-game-react/precache-manifest.281fd0b2736a86b1358d617fafc79761.js",
+    "service-worker.js": "/memory-game-react/service-worker.js",
+    "static/css/main.b9acd6d9.chunk.css.map": "/memory-game-react/static/css/main.b9acd6d9.chunk.css.map",
+    "static/js/2.05b8c206.chunk.js.LICENSE.txt": "/memory-game-react/static/js/2.05b8c206.chunk.js.LICENSE.txt",
+    "static/media/bear.png": "/memory-game-react/static/media/bear.1948aa56.png",
+    "static/media/beaver.png": "/memory-game-react/static/media/beaver.53e1f155.png",
+    "static/media/cat.png": "/memory-game-react/static/media/cat.5ef3ecae.png",
+    "static/media/chick.png": "/memory-game-react/static/media/chick.a7c276c8.png",
+    "static/media/chicken.png": "/memory-game-react/static/media/chicken.3d53cc0c.png",
+    "static/media/cow.png": "/memory-game-react/static/media/cow.34c75b47.png",
+    "static/media/dog.png": "/memory-game-react/static/media/dog.92719be5.png",
+    "static/media/donkey.png": "/memory-game-react/static/media/donkey.1b3936b6.png",
+    "static/media/duck.png": "/memory-game-react/static/media/duck.c539fc3d.png",
+    "static/media/elephant.png": "/memory-game-react/static/media/elephant.11075bbf.png",
+    "static/media/lion.png": "/memory-game-react/static/media/lion.0f6b2638.png",
+    "static/media/monkey.png": "/memory-game-react/static/media/monkey.e92ffeb9.png",
+    "static/media/penguin.png": "/memory-game-react/static/media/penguin.73cfdfe5.png",
+    "static/media/pig.png": "/memory-game-react/static/media/pig.566e5ee9.png",
+    "static/media/walrus.png": "/memory-game-react/static/media/walrus.6033f744.png",
+    "static/media/zebra.png": "/memory-game-react/static/media/zebra.495c1851.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c4f0de0.js",
+    "static/js/2.05b8c206.chunk.js",
+    "static/css/main.b9acd6d9.chunk.css",
+    "static/js/main.bb53ca8f.chunk.js"
+  ]
+}
